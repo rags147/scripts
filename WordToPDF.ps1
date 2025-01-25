@@ -15,3 +15,8 @@ $doc.Close()
 }
 
 $word.Quit()
+
+
+
+######
+powershell -ExecutionPolicy Bypass -File .\WordToPDF.ps1
